@@ -1,0 +1,16 @@
+{
+  "name": "access-token-generator",
+  "version": "1.0.0",
+  "description": "Axie Infinity Access Token Generator for Gamesports Talent Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CMD",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.6.1"
+  },
+  "type": "module"
+}
